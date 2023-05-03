@@ -1,5 +1,6 @@
 Safe Contracts
 ==============
+forked to clean deps mess
 
 [![npm version](https://badge.fury.io/js/%40gnosis.pm%2Fsafe-contracts.svg)](https://badge.fury.io/js/%40gnosis.pm%2Fsafe-contracts)
 [![Build Status](https://github.com/safe-global/safe-contracts/workflows/safe-contracts/badge.svg?branch=development)](https://github.com/safe-global/safe-contracts/actions)
